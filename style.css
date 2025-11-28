@@ -1,0 +1,250 @@
+body {
+    font-family:serif;
+    background-color: black;
+}
+
+h1{
+text-align: center;
+color: black;
+background-color: rgb(97, 0, 97);
+border-radius: 100px;
+border: solid 5px rgb(69, 69, 69);
+}
+
+header{
+    background-color: black;
+}
+
+.wre{
+background-color:rgb(97, 0, 97);
+text-align: center;
+border-radius: 100px;
+border: solid 5px rgb(69, 69, 69);
+}
+
+.Roblox{
+    justify-content:center;
+display: flex;
+}
+
+main{
+    background-color: black;
+
+}
+
+.co{
+ justify-content: center;
+display: flex;
+}
+
+:hover.co{
+transform: rotate(500040deg);
+transition:20s;
+font-size: 800px;
+}
+
+ol{
+    margin-bottom: 16px;
+    border: solid 4px rgb(69, 69, 69);
+    border-radius: 100px;
+     background-image: url('https://tr.rbxcdn.com/180DAY-2e802de0271af3839a0676e581a6c8fc/768/432/Image/Webp/noFilter');
+     height: 6500px;
+     padding-top: 20px;
+     padding-right: 10px;
+    padding-left: 50px;
+}
+
+li{
+    text-align: center;
+    color:red;
+    font-size: 20px;
+    background-color: black;
+    border-radius: 100px;
+}
+
+.twotime{
+    justify-content:center;
+display: flex;
+}
+
+ p{
+    color: black;
+background-color: rgb(97, 0, 97);
+border: solid 3px rgb(69, 69, 69);
+ }   
+
+.twotime:hover{
+transform: rotate(1040deg);
+transition:30s;
+}
+
+.Elliot{
+    justify-content:center;
+display: flex;
+}
+
+:hover.Elliot{
+  transform: rotate(1040deg);
+transition:30s;  
+}
+
+.OO7n7{
+ justify-content:center;
+display:flex;
+}
+
+:hover.OO7n7{
+  transform: rotate(1040deg);
+transition:30s;  
+}
+
+.Builderman{
+    justify-content:center;
+display:flex;
+}
+
+ :hover.Builderman{
+transform: rotate(1040deg);
+transition:30s;  
+}
+
+.Shedletsky{
+    justify-content:center;
+display:flex;
+}
+
+:hover.Shedletsky{
+transform: rotate(1040deg);
+transition:30s;  
+}
+
+.Dusekkar{
+    justify-content:center;
+display:flex;
+}
+
+:hover.Dusekkar{
+transform: rotate(1040deg);
+transition:30s;  
+}
+
+.Noob{
+    justify-content:center;
+display:flex;
+}
+
+:hover.Noob{
+transform: rotate(1040deg);
+transition:30s;  
+}
+
+.Chance {
+    justify-content:center;
+display:flex;
+}
+
+:hover.Chance {
+transform: rotate(1040deg);
+transition:30s;  
+}
+
+.Guest1337{
+    justify-content:center;
+display:flex;
+}
+
+:hover.Guest1337 {
+transform: rotate(1040deg);
+transition:30s;  
+}
+
+.Taph{
+    justify-content:center;
+display:flex;
+}
+
+:hover.Taph{
+transform: rotate(1040deg);
+transition:30s;  
+}
+
+.Veeronica{
+    justify-content:center;
+display:flex;
+}
+
+:hover.Veeronica{
+transform: rotate(1040deg);
+transition:30s;  
+}
+
+.slasher{
+    justify-content:center;
+display:flex;
+}
+
+:hover.slasher{
+transform: rotate(1040deg);
+transition:30s;  
+}
+
+.c00lkid{
+    justify-content:center;
+display:flex;
+}
+
+:hover.c00lkid{
+transform: rotate(1040deg);
+transition:30s;  
+}
+
+.johndoe{
+    justify-content:center;
+display:flex;
+}
+
+:hover.johndoe{
+transform: rotate(1040deg);
+transition:30s;  
+}
+
+.noli{
+    justify-content:center;
+display:flex;
+}
+
+:hover.noli{
+transform: rotate(1040deg);
+transition:30s;  
+}
+
+.x1x1x1{
+    justify-content:center;
+display:flex;
+}
+
+:hover.x1x1x1{
+transform: rotate(1040deg);
+transition:30s;  
+}
+
+.Guest666{
+    justify-content:center;
+display:flex;
+}
+
+:hover.Guest666{
+transform: rotate(1040deg);
+transition:30s;  
+}
+
+a{
+    background-color: blueviolet;
+    border: solid 2px slategrey;
+    color: crimson;
+}
+
+.d{
+    display:flex;
+    justify-content: center;
+}
